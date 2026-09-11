@@ -22,6 +22,14 @@ Every important concept note uses these headings: One-sentence meaning; Prerequi
 
 Write clear English from fundamentals upward. Link prerequisites and relevant course/homework locations with Obsidian wikilinks. Keep derivations at the studied level; mark missing source links honestly. Label actual earlier misconceptions accurately; generic teaching examples must not be invented as user memories.
 
+## Foundational guided-learning standard
+
+Use the approved first-pass layer in [[Vector fields, divergence and curl]] as the pedagogical standard for foundational concepts. Begin from the smallest prerequisite idea, explain notation before using it, build conceptual bridges explicitly, and include simple worked micro-examples. Preserve actual earlier confusions and the reasoning needed to resolve them; distinguish intuition from formal statements. Retain the compact reference equations, source discipline and wikilinks.
+
+Expand according to how much conceptual reconstruction the topic needs; do not impose the sample note's length or a fixed number of self-checks. Use questions only where they help reconstruct or distinguish ideas. For each expanded note, place a short “Before moving on, I should be able to…” section immediately before a compact “Later review.” Readiness targets should identify minimum competencies for downstream notes, not certify mastery or add unrelated topics.
+
+During the current staged review, present the expanded [[Orthogonal, orthonormal and complete]] note for user review before expanding the remaining concepts. The vector-fields approach is approved. Preserve the requested order for the next concepts: rank-2 tensors and outer products, Maxwell stress tensor, then Poynting theorem. Do not interpret approval of the teaching standard as approval to skip the requested review of the next note.
+
 ## Homework maps
 
 Map each problem to verified lecture sections and prerequisite concepts. Record the system, knowns/unknowns, symmetry, assumptions, governing equations and an understanding/status checklist. Do not copy instructor solutions or construct full worked solutions inside a map. Do not mark submission, self-grading or mastery complete without evidence. Preserve explicit assignment-version ambiguities.

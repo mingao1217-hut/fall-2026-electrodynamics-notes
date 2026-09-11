@@ -291,6 +291,16 @@ For $\mathbf F=(-y,x,0)$, $\nabla\cdot\mathbf F=0$ and $\nabla\times\mathbf F=(0
 
 [[Sources/Course Sources#Lecture 1|Lecture 1]] §§1.2, 1.6, eqs. (19)–(20), (36), (41)–(42); [[Sources/Course Sources#Lecture 2|Lecture 2]] §1.8. [[Homework/HW1 Map#Problem 1a|HW1 1(a)]] and [[Homework/HW1 Map#Problem 3|HW1 3]].
 
+## Before moving on, I should be able to…
+
+- Distinguish an arrow's location from its components, and read a partial derivative such as $\partial_xF_y$ aloud.
+- Explain divergence using opposite-face fluxes and curl using circulation around a small oriented loop.
+- Compute both operations for $(x,y,0)$ and $(-y,x,0)$ and explain the direction of the curl.
+- Distinguish zero field, zero net boundary flux and zero pointwise divergence.
+- Explain why $\nabla\cdot\mathbf S$ has units of energy per volume per time, ready for [[Poynting theorem]].
+
+These are minimum readiness targets for [[Maxwell equations]], [[Poynting theorem]] and the divergence used in [[Maxwell stress tensor]], not a requirement to memorize every formula first.
+
 ## Later review
 
 | Question | Compact answer |
